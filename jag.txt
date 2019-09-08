@@ -1,0 +1,11 @@
+code- chekin- bit bucket - jenkins-
+disturbuted version control system.
+infrastrure- servers/trubleshouts- up and running- 
+read and write, admin.read permsion
+
+push, pull(pull request- for team lead reviewer)
+alm,tower ansible
+sonar
+
+
+
